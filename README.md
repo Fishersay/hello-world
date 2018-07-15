@@ -1,2 +1,4 @@
 # hello-world
-Just try
+ Hi human, 
+ 
+ I want to learn more about python!
